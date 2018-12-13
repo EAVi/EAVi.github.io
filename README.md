@@ -1,2 +1,2 @@
 # EAVi.github.io
-Github Pages personal site
+Github Pages personal site.
